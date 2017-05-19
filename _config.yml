@@ -64,10 +64,6 @@ navs:
     label: Spring-Boot
 
   -
-    href: /open-source
-    label: Open-Source
-
-  -
     href: /blogs
     label: Blog
 
